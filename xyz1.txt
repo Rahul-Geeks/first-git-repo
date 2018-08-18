@@ -1,1 +1,3 @@
  this is content for three way merge 
+ this is content for three way data 
+ this is content for three way merge with magic g
