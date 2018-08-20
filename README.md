@@ -8,3 +8,17 @@ Tech:
   ->  Express 
   ->  Mlab
   ->  AWS
+
+  -> Typescript
+  ->  HTML,CSS,Javascript
+  ->  Angular
+  ->  Node
+  ->  mongo
+  ->  Express
+
+  -> Typescript
+  ->  HTML,CSS,Javascript
+  ->  Angular
+  ->  Node
+  ->  mongo
+  ->  Express
